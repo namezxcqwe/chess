@@ -4,24 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a5bb747-4518-409a-bca8-fd019d3b29cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/chess.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bishop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/board.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/king.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pawn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piece.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rock.py" afterDir="false" />
+    <list default="true" id="4a5bb747-4518-409a-bca8-fd019d3b29cf" name="Changes" comment="starting">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bishop.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/bishop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/board.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/board.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/king.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/king.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/knight.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/knight.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pawn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pawn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/piece.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/piece.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/queen.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/queen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rock.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/rook.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +44,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Don/Desktop/OOP_Python-main&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Don/PycharmProjects/chess&quot;
   }
 }</component>
   <component name="RunManager">
@@ -97,6 +91,19 @@
       <option name="presentableId" value="Default" />
       <updated>1712508743187</updated>
     </task>
+    <task id="LOCAL-00001" summary="starting">
+      <option name="closed" value="true" />
+      <created>1712510040979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712510040979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="starting" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting" />
   </component>
 </project>
